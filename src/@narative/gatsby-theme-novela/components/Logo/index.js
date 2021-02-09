@@ -9,7 +9,7 @@ import React from 'react';
  */
 export default function Logo({ fill }) {
   return (
-   <h1 style={{color: `${fill}`, fontSize:"25px"}} >Be Water. <span role="img" aria-label="drip">💧</span>
+   <h1 style={{color: `${fill}`, fontSize:"25px"}} >Be Water.<span role="img" aria-label="drop">💧</span>
    </h1>
   
   
