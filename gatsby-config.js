@@ -1,33 +1,29 @@
 module.exports = {
   siteMetadata: {
-    title: `Nov`,
+    title: `Be water`,
     name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    siteUrl: `https://mahamat-salle-mansour-blog.netlify.app/`,
+    description: `Mansour Mahamat-Salle's blog, web developer`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
-      maxWidth: 652,
+      heading: `Mansour Mahamat-Salle's blog 🚀🌍`,
+      maxWidth: 752,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/mans____m`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
-      },
-      {
-        name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://github.com/mansmahamat?tab=repositories`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `https://www.linkedin.com/in/mansour-mahamat-salle-138b73138/`,
       },
       {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        name: `devto`,
+        url: `https://mansour-mahamat.netlify.app/`,
       },
     ],
   },
@@ -54,7 +50,7 @@ module.exports = {
         background_color: `#fff`,
         theme_color: `#fff`,
         display: `standalone`,
-        icon: `src/assets/favicon.png`,
+        icon: `src/assets/drop.png`,
       },
     },
     {
