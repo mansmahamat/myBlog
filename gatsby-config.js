@@ -44,7 +44,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "G-Y496F1DRS1",
+        trackingId: "UA-151373216-5",
       },
     },
     {
