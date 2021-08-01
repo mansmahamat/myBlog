@@ -1,7 +1,7 @@
 ---
 title: A Simple CSS Flexbox Cheat Sheet
 author: Mansour Mahamat-Salle
-date: 2020-08-01
+date: 2021-08-01
 hero: ./images/FLEXBOX.png
 excerpt: Let's see some CSS Flexbox 🛠 .
 ---
